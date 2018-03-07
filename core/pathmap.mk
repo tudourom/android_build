@@ -74,6 +74,7 @@ FRAMEWORKS_BASE_SUBDIRS := \
 	    media/mca/filterfw \
 	    media/mca/filterpacks \
 	    drm \
+            suda\
 	    opengl \
 	    sax \
 	    telecomm \
